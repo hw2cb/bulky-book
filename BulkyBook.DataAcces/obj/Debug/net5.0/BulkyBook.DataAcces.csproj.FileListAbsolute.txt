@@ -1,0 +1,17 @@
+C:\Users\dim5d\source\repos\BulkyBook\BulkyBook.DataAcces\bin\Debug\net5.0\BulkyBook.DataAcces.deps.json
+C:\Users\dim5d\source\repos\BulkyBook\BulkyBook.DataAcces\bin\Debug\net5.0\BulkyBook.DataAcces.dll
+C:\Users\dim5d\source\repos\BulkyBook\BulkyBook.DataAcces\bin\Debug\net5.0\ref\BulkyBook.DataAcces.dll
+C:\Users\dim5d\source\repos\BulkyBook\BulkyBook.DataAcces\bin\Debug\net5.0\BulkyBook.DataAcces.pdb
+C:\Users\dim5d\source\repos\BulkyBook\BulkyBook.DataAcces\obj\Debug\net5.0\BulkyBook.DataAcces.csproj.AssemblyReference.cache
+C:\Users\dim5d\source\repos\BulkyBook\BulkyBook.DataAcces\obj\Debug\net5.0\BulkyBook.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dim5d\source\repos\BulkyBook\BulkyBook.DataAcces\obj\Debug\net5.0\BulkyBook.DataAcces.AssemblyInfoInputs.cache
+C:\Users\dim5d\source\repos\BulkyBook\BulkyBook.DataAcces\obj\Debug\net5.0\BulkyBook.DataAcces.AssemblyInfo.cs
+C:\Users\dim5d\source\repos\BulkyBook\BulkyBook.DataAcces\obj\Debug\net5.0\BulkyBook.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\dim5d\source\repos\BulkyBook\BulkyBook.DataAcces\obj\Debug\net5.0\BulkyBook.DataAcces.dll
+C:\Users\dim5d\source\repos\BulkyBook\BulkyBook.DataAcces\obj\Debug\net5.0\ref\BulkyBook.DataAcces.dll
+C:\Users\dim5d\source\repos\BulkyBook\BulkyBook.DataAcces\obj\Debug\net5.0\BulkyBook.DataAcces.pdb
+C:\Users\dim5d\source\repos\BulkyBook\BulkyBook.DataAcces\bin\Debug\net5.0\BulkyBook.Models.dll
+C:\Users\dim5d\source\repos\BulkyBook\BulkyBook.DataAcces\bin\Debug\net5.0\BulkyBook.Utility.dll
+C:\Users\dim5d\source\repos\BulkyBook\BulkyBook.DataAcces\bin\Debug\net5.0\BulkyBook.Models.pdb
+C:\Users\dim5d\source\repos\BulkyBook\BulkyBook.DataAcces\bin\Debug\net5.0\BulkyBook.Utility.pdb
+C:\Users\dim5d\source\repos\BulkyBook\BulkyBook.DataAcces\obj\Debug\net5.0\BulkyBook.DataAcces.csproj.CopyComplete
