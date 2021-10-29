@@ -442,3 +442,5 @@ C:\Users\dim5d\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\BulkyBook.Utili
 C:\Users\dim5d\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\BulkyBook.Utility.pdb
 C:\Users\dim5d\source\repos\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
 C:\Users\dim5d\source\repos\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+C:\Users\dim5d\source\repos\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+C:\Users\dim5d\source\repos\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
