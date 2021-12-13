@@ -1,8 +1,35 @@
-﻿@{
+﻿@model IEnumerable<Product>
+@{
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="row pb-3 backgroundWhite">
+    @foreach (var item in Model)
+    {
+        <div class="col-lg-3 col-md-6">
+            <div class="row p-2">
+                <div class="col-12  p-1" style="border:1px solid #008cba; border-radius: 5px;">
+                    <div class="card" style="border:0px;">
+                        <a asp-action="Details" asp-route-id="@item.Id">
+                            <img src="@item.ImageUrl" class="card-img-top rounded" />
+                        </a>
+                        
+                        <div class="pl-1">
+                            <p class="card-title h5"><b style="color:#2c3e50">@item.Title</b></p>
+                            <p class="card-title text-primary">Автор: <b>@item.Author</b></p>
+                        </div>
+                        <div style="padding-left:5px;">
+                            <p>Старая цена: <strike><b class="">@item.Price.ToString("c")</b></strike></p>
+                        </div>
+                        <div style="padding-left:5px;">
+                            <p style="color:maroon">Низкая цена при покупке: <b class="">@item.Price100.ToString("c")</b></p>
+                        </div>
+                    </div>
+                    <div>
+                        <a asp-action="Details" class="btn btn-primary form-control" asp-route-id="@item.Id">Детали</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
 </div>
