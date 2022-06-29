@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dA9k1JQ69sOFi/bLhfxXPVW4iK62PAdrUVFGJUYhYKsAoOBhYdloZ3M0DIq/Wz43txPekcovOgqmEz+IRiQ8AQ==",
+  "dgSpecHash": "Q8RgDNHFk6HJywWMlwr+2y8UFj+m3jzxUqtHuQQXfQaoK9rxisx2c5SMe9ScS7u8jb8wMkBEhsU2B5lYfq1t4Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\dim5d\\source\\repos\\BulkyBook\\BulkyBook\\BulkyBook.csproj",
   "expectedPackageFiles": [
@@ -206,7 +206,8 @@
     "C:\\Users\\dim5d\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\dim5d\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\dim5d\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\dim5d\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\dim5d\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\dim5d\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }
